@@ -6,6 +6,15 @@ this data analsis project insight to get the defualter customer and for risk man
 and other side we also get the information regarding country wise in which state bank performace increase to provide the loan and achive the growth in order to 
 understand the count of loan application with a require amount .
 
+##Data Sources 
+###Finanace1 and finanace 2 in csv files 
+
+###Tools
+excel - data cleaning & Data merge 
+MSQL Server - data analysis
+Powerbi - Creating Report 
+Tableau - Creating Report 
+
 ### here we work mainly on 5 KPI inorder make a eccicenfy of report 
 ![kpi bfgfhfgh](https://github.com/user-attachments/assets/e7052499-8614-4507-a9ef-037ced07e88e)
 
